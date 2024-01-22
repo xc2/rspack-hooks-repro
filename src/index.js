@@ -1,3 +1,2 @@
-import('./render').then(exports => {
-    exports.render()
-})
+// change me to emit rebuild
+console.log('1414');
