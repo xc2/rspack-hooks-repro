@@ -5,8 +5,8 @@
     "dev:rspack": "rspack dev -c ./webpack.config.mjs"
   },
   "dependencies": {
-    "@rspack/cli": "canary",
-    "@rspack/core": "canary",
+    "@rspack/cli": "0.5.2-canary-6f90fc7-20240123030502",
+    "@rspack/core": "0.5.2-canary-6f90fc7-20240123030502",
     "webpack": "5.89.0",
     "webpack-cli": "5.1.4",
     "@biomejs/biome": "^1.5.2"
